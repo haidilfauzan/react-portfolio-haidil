@@ -47,7 +47,7 @@ export const EDUCATIONS = [
     year: "Sep 2021 - aug 2025",
     role: "Information System Technology",
     company: "Batam Institute of Technology (ITEBA)",
-    description: `Current education doing bachelor degree as Information System Technology student with current GPA 3.82/4.0. `,
+    description: `Current education doing bachelor degree as Information System Technology student with current GPA 3.84/4.0. `,
     links: ["https://iteba.ac.id/"],
   },
   {
